@@ -1,10 +1,2 @@
-﻿  firstDemo.cpp
-firstDemo.cpp(39): warning C4473: “printf”: 没有为格式字符串传递足够的参数
-  firstDemo.cpp(39): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
-  firstDemo.cpp(39): note: 缺失的可变参数 1 为格式字符串“%d”所需
-    正在创建库 G:\EnidWang\Documents\courses\2018autumn\software_project\firstDemo\Release\firstDemo.lib 和对象 G:\EnidWang\Documents\courses\2018autumn\software_project\firstDemo\Release\firstDemo.exp
-  正在生成代码
-  All 457 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  firstDemo.vcxproj -> G:\EnidWang\Documents\courses\2018autumn\software_project\firstDemo\Release\firstDemo.exe
-  firstDemo.vcxproj -> G:\EnidWang\Documents\courses\2018autumn\software_project\firstDemo\Release\firstDemo.pdb (Full PDB)
+﻿  firstDemo.vcxproj -> C:\Users\官欣仪\Desktop\hahaha\software\firstDemo\Release\firstDemo.exe
+  firstDemo.vcxproj -> C:\Users\官欣仪\Desktop\hahaha\software\firstDemo\Release\firstDemo.pdb (Full PDB)
