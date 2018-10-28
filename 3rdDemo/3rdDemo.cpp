@@ -41,7 +41,7 @@ int main()
 
 	int buff[3] = { 0 };
 
-
+	//判断superman.jpg各个点是否是背景，不是的话将其写入poDstDS
 	for (int i = 0; i < imgXlen; i++) {
 		for (int j = 0; j < imgYlen; j++) {
 			for (int k = 0; k < bandNum; k++){
